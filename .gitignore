@@ -6,3 +6,9 @@ build/
 /python/tiny_obj_loader.h
 /tests/tester
 /tests/tester.dSYM
+.vs/
+bin/
+obj/
+tinyobjloader.vcxproj
+tinyobjloader.vcxproj.user
+TinyObjLoaderSolution.sln
